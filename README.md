@@ -7,11 +7,13 @@ There is mainly 3 core web developing techniques. Javascript is one of the web d
 There are 2 types of framework in Javascript Language :
 ------------------------------------------------------
 1. Javascript Based FrontEnd Framework
+
     a. Angular JS
     b. React JS
     c. Eulr JS
     d. Aue JS
 2. Javascript Based BackEnd Framework 
+
     a. Node JS
     b. Backbone JS
     c. Meteor JS
