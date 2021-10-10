@@ -37,11 +37,8 @@ Although, var stands for javascript variables
  example :
  
     N1 -> 4
-    
     N2 -> 6
-    
     N3 -> 2
-
 
 Operator : It used to perform some actions on variables .
 eg: assignment operator, arithmetic operator and comparison operator
@@ -52,3 +49,10 @@ Console.clear( )  : Clear the previous records i.e,  appearing in the screen.
 
 Number, string , boolean, array and object are the data type  we store in the variables.
 
+Rules for naming the JS variables :
+-----------------------------------
+    1. It can contain  letters, digits , underscore and special characters
+    2. Name cannot start with a digits
+    3. Name can start with a underscore and special character
+    4. Names are always case sensitive
+    5. Variable name cannot be a reversed word
