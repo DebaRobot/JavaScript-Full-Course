@@ -8,15 +8,15 @@ There are 2 types of framework in Javascript Language :
 ------------------------------------------------------
 1. Javascript Based FrontEnd Framework
 
-    a. Angular JS
-    b. React JS
-    c. Eulr JS
-    d. Aue JS
+    1. Angular JS
+    2. React JS
+    3. Eulr JS
+    4. Aue JS
 2. Javascript Based BackEnd Framework 
 
-    a. Node JS
-    b. Backbone JS
-    c. Meteor JS
+    1. Node JS
+    2. Backbone JS
+    3. Meteor JS
 
 Course Outline ::
 1. Javascript Basics
